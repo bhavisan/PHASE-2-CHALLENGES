@@ -33,7 +33,12 @@ FLAG: _y0u_f0und_key_
 
   My Approach:
   <br>
-  A PYC file is basically compiled python code into bytecode.
+  A PYC file is basically compiled python code into bytecode. I used an online PYC to PY converter to obtain the python code.
+  ![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/9576e006-4bcf-4e68-a903-086738fbda7d)
+  Here is the solved python code:
+  ![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/4887af01-a84d-4d33-8518-bbbed56091b6)
+FLAG: compiled_python??
+
 
 - Challenge 3:
   <br>
