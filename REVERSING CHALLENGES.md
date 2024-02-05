@@ -25,3 +25,45 @@ This led me to my flag.
 ![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/d58aa93d-9730-4397-83f0-ad71acf2a52f)
 
 FLAG: _y0u_f0und_key_
+
+- Challenge 2:
+  <br>
+  Challenge description: To figure out what's within the PYC file and find the flag.
+  </br>
+
+  My Approach:
+  <br>
+  A PYC file is basically compiled python code into bytecode.
+
+- Challenge 3:
+  <br>
+  Challenge Description: to find the password
+  </br>
+
+  My Approach:
+  ![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/c3a4988c-064d-43b1-8881-ae527facdbb7)
+In this task as well, I used GHYDRA to decompile the given file and obtain the source code.
+![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/81e298a4-ee5d-40bc-a15d-85118338feb0)
+Analyzing the code gave me the flag:
+![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/5b9f3784-af50-42a9-8012-ecb0c282521e)
+
+FLAG: at_least_this_cafe_wont_leak_your_credit_card_numbers
+
+- Challenge 4:
+   <br>
+   Challenge Description: to find the password
+  </br>
+
+  My Approach:
+  ![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/f81b6567-cebd-4942-86c4-297f3e52fea2)
+ This was yet another task that asked for password, so I did the usual and looked for the source code using GHIDRA.
+![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/9b9788dd-ce3a-4695-8083-0ee5a0dc7c9a)
+
+Analysing the source code, I was able to figure out the flag.
+![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/d6ce3c21-56b8-40be-8c95-f10483f5ff41)
+
+FLAG: pass@words (any 10 letter word as long as the 4th index is @)
+
+for instance:
+![image](https://github.com/bhavisan/PHASE-2-CHALLENGES/assets/155368794/93a77b87-444a-4279-b642-1fe2de4ade70)
+
